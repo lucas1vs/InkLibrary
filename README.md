@@ -1,1 +1,1 @@
-# InkLibrary
+Sistema de Gerenciamento de Biblioteca
