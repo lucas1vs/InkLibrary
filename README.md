@@ -1,3 +1,10 @@
+##  Identificação
+
+- **Lucas Domingos Calixto dos Reis** 
+- **Análise e Desenvolvimento de Sistemas**
+- **Programação de Computadores** 
+- **12/06/26** 
+
 #  Sistema de Gerenciamento de biblioteca
 
  Este projeto é um sistema simples de gerenciamento de biblioteca desenvolvido em Python. Ele funciona via terminal e permite cadastrar, editar e controlar livros disponíveis, simulando um sistema real de controle de acervo.
