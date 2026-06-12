@@ -42,15 +42,16 @@ Os livros são armazenados em uma lista de dicionários, no seguinte formato:
   "autor": "Machado de Assis",
   "quantidade": 5
 }
+
 # Fluxo do Programa
 
-* O sistema exibe um menu de opções
-* O usuário escolhe uma ação (cadastrar, listar, buscar, etc.)
-* O programa executa a função correspondente
-*O processo se repete até o usuário escolher sair
+* O sistema inicia exibindo um menu de opções
+* O usuário escolhe uma ação
+* O sistema executa a função correspondente
+* Os dados são processados e exibidos
+* O menu é exibido novamente até o usuário sair
 
-# 
-* Observações
+# Observações
 * Os dados são armazenados apenas durante a execução do programa
 * Não há uso de banco de dados
 * O sistema é totalmente baseado em terminal
