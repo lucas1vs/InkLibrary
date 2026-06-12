@@ -1,10 +1,10 @@
 #  Sistema de Gerenciamento de biblioteca
 
-* Este projeto é um sistema simples de gerenciamento de biblioteca desenvolvido em Python. Ele funciona via terminal e permite cadastrar, editar e controlar livros disponíveis, simulando um sistema real de controle de acervo.
-* 
+ Este projeto é um sistema simples de gerenciamento de biblioteca desenvolvido em Python. Ele funciona via terminal e permite cadastrar, editar e controlar livros disponíveis, simulando um sistema real de controle de acervo.
+ 
 # Objetivo
 
-* O objetivo deste projeto é aplicar conceitos fundamentais de programação em Python, como estruturas de dados, funções e controle de fluxo, criando um sistema capaz de gerenciar livros e suas quantidades.
+ O objetivo deste projeto é aplicar conceitos fundamentais de programação em Python, como estruturas de dados, funções e controle de fluxo, criando um sistema capaz de gerenciar livros e suas quantidades.
 
 # Funcionalidades
 
