@@ -6,6 +6,10 @@
 
  O objetivo deste projeto é aplicar conceitos fundamentais de programação em Python, como estruturas de dados, funções e controle de fluxo, criando um sistema capaz de gerenciar livros e suas quantidades.
 
+ # Descrição do Problema
+ 
+ Muitas bibliotecas enfrentam dificuldades no controle manual de livros, como organização, atualização de estoque e localização de itens. Este sistema foi desenvolvido para facilitar esse gerenciamento de forma simples e eficiente.
+
 # Funcionalidades
 
 * Cadastrar livros (título, autor e quantidade)
